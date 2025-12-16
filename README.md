@@ -6,6 +6,8 @@ This dataset (ml-latest) describes 5-star rating and free-text tagging activity 
 
 Users were selected at random for inclusion. All selected users had rated at least 1 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
+The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/whenamancodes/popular-movies-datasets-58000-movies?resource=download).
+
 ## 💡 Highlights
 
 - Film-Noir is the highest rated genre of all-time despite being one of the least popular in terms of audience size.
